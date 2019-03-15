@@ -1,0 +1,27 @@
+.bold {
+    font-weight: bold;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.m-t-0 {
+    margin-top: 0;
+}
+
+.m-b-50 {
+    margin-bottom: 50px;
+}
+
+.size-60 {
+    font-size: 60px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
